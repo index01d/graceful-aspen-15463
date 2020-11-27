@@ -75,7 +75,7 @@ sections:
       Мы всегда на связи онлайн. Напишите нам прямо сейчас и давайте вместе
       придумаем как показать стремительный рост уже в этом месяце
     actions:
-      - label: Learn More
+      - label: Напишите нам
         url: /features
         style: primary
     has_background: true
