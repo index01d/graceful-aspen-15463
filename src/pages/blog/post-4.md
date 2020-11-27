@@ -1,5 +1,5 @@
 ---
-title: 'Рекордные продажи '
+title: 'Рекордные продажи ёрную '
 date: '2020-05-30'
 author: src/data/team/dianne-ameter.yaml
 categories:
