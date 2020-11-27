@@ -1,5 +1,5 @@
 ---
-title: 'Новый '
+title: Как мы в санатории Арника сфокусировались на премиум-сегменте
 date: '2020-05-28'
 author: src/data/team/gordon-norman.yaml
 categories:
