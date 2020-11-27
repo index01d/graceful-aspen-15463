@@ -30,9 +30,9 @@ sections:
     features:
       - title: Feature 1С
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Внедрим самые современные ИТ-решения: Систему сквозной аналитики,
+          CRM-систему, PMS-систему, IP-телефонию всего за 3 месяца и по самой
+          выгодной цене
         align: left
         image: images/feature.svg
         image_position: right
