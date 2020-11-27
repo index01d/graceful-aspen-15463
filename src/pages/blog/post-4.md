@@ -1,5 +1,5 @@
 ---
-title: 'Рекордные продажи ёрную '
+title: 'Рекордные продажи чёрную пятницу '
 date: '2020-05-30'
 author: src/data/team/dianne-ameter.yaml
 categories:
