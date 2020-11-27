@@ -5,7 +5,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "О компании",
+                "label": "Решения",
                 "url": "/features",
                 "style": "link"
             },
