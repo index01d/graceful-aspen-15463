@@ -54,9 +54,10 @@ sections:
             style: secondary
       - title: Формируйте сильный бренд
         content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+          Устраним недобросовестных агентов из поисковых систем и
+          интернет-ресурсов. Опубликуем актуальные карточки компании в поисковых
+          компаниях, гео-сервисах и социальных сетях. Организуем работу в
+          SMM-маркетинге и обработаем отзывы в сервисах. 
         align: left
         image: images/feature.svg
         image_position: right
