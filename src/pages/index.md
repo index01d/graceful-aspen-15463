@@ -12,7 +12,7 @@ sections:
       - label: Узнать больше
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Напишите нам
         url: /contact
         style: secondary
     align: left
