@@ -70,7 +70,7 @@ sections:
     show_recent: true
     recent_count: 3
   - type: cta_section
-    title: 'Пора '
+    title: Пора сделать ваш объект современным
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
