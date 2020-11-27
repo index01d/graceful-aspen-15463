@@ -5,9 +5,7 @@ sections:
     title: >-
       Управляем интернет-продажами в санаториях и отелях опираясь на технологии
       и данные
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Команда профессионалов
     actions:
       - label: Learn More
         url: /features
