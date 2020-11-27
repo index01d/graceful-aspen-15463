@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: >-
+      Управляем интернет-продажами в санаториях и отелях опираясь на технологии
+      и данные.
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
