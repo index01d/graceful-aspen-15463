@@ -71,7 +71,7 @@ sections:
     recent_count: 3
   - type: cta_section
     title: Пора сделать ваш объект современным
-    subtitle: Напишит
+    subtitle: Мы всегда на связи онлайн. Напишите нам прямо сейча
     actions:
       - label: Learn More
         url: /features
