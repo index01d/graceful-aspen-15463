@@ -28,7 +28,7 @@ sections:
   - type: features_section
     title: Решения
     features:
-      - title: Feature 1С
+      - title: Системная интеграция
         content: >-
           Внедрим самые современные ИТ-решения: Систему сквозной аналитики,
           CRM-систему, PMS-систему, IP-телефонию всего за 3 месяца и по самой
