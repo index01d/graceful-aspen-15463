@@ -1,5 +1,5 @@
 ---
-title: Как санаторий Знание увеличил продажи в несезон на 30% с помощью Power.BI
+title: Как санаторий Знание увеличил продажи на 30% с помощью Power.BI
 date: '2020-06-02'
 author: src/data/team/gordon-norman.yaml
 categories:
