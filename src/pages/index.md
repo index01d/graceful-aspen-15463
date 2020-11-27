@@ -42,9 +42,9 @@ sections:
             style: secondary
       - title: Управление маркетингом
         content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+          Пополняйте единый рекламный счёт. Мы возьмём на себя разработку и
+          управление кампаниями, коммуникации с рекламными площадками, оценку
+          эффективности
         align: left
         image: images/feature.svg
         image_position: left
