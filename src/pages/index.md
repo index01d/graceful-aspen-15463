@@ -9,7 +9,7 @@ sections:
       Команда профессионалов в системной интеграции и маркетинге на рынке
       гостеприимства
     actions:
-      - label: Learn More
+      - label: Узнать больше
         url: /features
         style: primary
       - label: Contact Us
