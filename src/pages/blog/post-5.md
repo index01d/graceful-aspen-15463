@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: Как санаторий Знание увеличил продажи в несезон на 30% с помощью Power.BI
 date: '2020-06-02'
 author: src/data/team/gordon-norman.yaml
 categories:
